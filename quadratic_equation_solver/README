@@ -1,0 +1,4 @@
+### Solves quadratic equations
+- Classifies the roots of each equation (using its **discriminants**, b^2-4ac)
+- Displays the root(s) of each equation
+- Displays the *simplified* version of the equation
